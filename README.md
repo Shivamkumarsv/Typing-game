@@ -1,2 +1,2 @@
 # Typing-game
-https://zesty-nasturtium-e47bb1.netlify.app
+Hosted link-https://zesty-nasturtium-e47bb1.netlify.app
